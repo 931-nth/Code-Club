@@ -1,2 +1,0 @@
-**cod**e clube
-codcommit
