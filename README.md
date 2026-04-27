@@ -1,2 +1,2 @@
-**cod**e clube
-codcommit
+# Code Club 2026
+Unfinished README :)
